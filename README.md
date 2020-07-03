@@ -23,3 +23,6 @@ Content scripts can communicate with their parent extension by exchanging [messa
 <p align=center>
   <img src="https://github.com/Xenia101/Chrome-Extension-Sample/blob/master/img/Content scripts2.png?raw=true">
 </p>
+
+### References
+https://developer.chrome.com/extensions/overview
